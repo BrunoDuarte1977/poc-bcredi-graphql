@@ -1,0 +1,14 @@
+{
+    "name": "brunods/eu-automation",
+    "description": "Testando Euautomation PHP Client GraphQL",
+    "type": "project",
+    "require": {
+        "euautomation/graphql-client": "^0.2.0"
+    },
+    "authors": [
+        {
+            "name": "Bruno Duarte",
+            "email": "brunoduarte1977@gmail.com"
+        }
+    ]
+}
